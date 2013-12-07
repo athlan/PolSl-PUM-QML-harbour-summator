@@ -1,0 +1,8 @@
+%dir /usr/lib/debug
+%dir /usr/lib/debug/.build-id
+%dir /usr/lib/debug/.build-id/be
+%dir /usr/lib/debug/usr
+%dir /usr/lib/debug/usr/bin
+/usr/lib/debug/.build-id/be/892904035b56b6972e17a58cf95458271d339f.debug
+/usr/lib/debug/.build-id/be/892904035b56b6972e17a58cf95458271d339f
+/usr/lib/debug/usr/bin/harbour-summator.debug

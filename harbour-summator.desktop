@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+X-Nemo-Application-Type=silica-qt5
+Name=harbour-summator
+Icon=/usr/share/icons/hicolor/90x90/apps/harbour-summator.png
+Exec=harbour-summator
+

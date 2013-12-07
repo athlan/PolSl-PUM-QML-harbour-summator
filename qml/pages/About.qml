@@ -43,6 +43,7 @@ Page {
         ListElement { txt: "Kasjan Kotynia" }
         ListElement { txt: "Łukasz Fornalczyk" }
         ListElement { txt: "Łukasz Kuśnierczyk" }
+        ListElement { txt: "Piotr Pelczar" }
     }
 
     SilicaListView {

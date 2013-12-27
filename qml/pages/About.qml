@@ -45,6 +45,7 @@ Page {
         ListElement { txt: "Łukasz Kuśnierczyk" }
         ListElement { txt: "Piotr Pelczar" }
         ListElement { txt: "Kajetan Dobczyk" }
+        ListElement { txt: "Dawid Szydło" }
     }
 
     SilicaListView {
